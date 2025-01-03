@@ -2,6 +2,8 @@
 ### End-to-end-Medical-Chatbot-Generative-AI
 
 ---
+![image](https://github.com/user-attachments/assets/9ebe2a96-2b66-4ad7-ac94-827917244f03)  
+---
 
 ## Comment l'exécuter ?
 ### ÉTAPES :
